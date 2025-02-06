@@ -1,5 +1,5 @@
 # DarkWeb-Sites
-This Tool shows most of the popular dark web sites.
+This Tool shows most of the popular dark web sites
 
 Welcome To AK Tools!
 
@@ -8,8 +8,6 @@ Telegram : https://t.me/AKHacking1
 Github : https://github.com/ak404z
 
 Youtube : https://www.youtube.com/@ak404z
-
-This Tool shows most of the popular dark web sites
 
 # Installation
 
